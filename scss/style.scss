@@ -65,6 +65,11 @@ body {
     color: black;
 }
 
+#about .card-header:hover{ 
+    cursor: pointer;
+
+}
+
 // Media Queries
 @media(max-width:768px) {
     #showcase {
